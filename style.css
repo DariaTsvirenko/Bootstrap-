@@ -1,0 +1,79 @@
+.body {
+  font-family: 'Oswald', sans-serif;
+  
+}
+
+.container {
+
+
+  max-width: 1110px;
+  background-color: gold;
+
+}
+.title-1 {
+  font-size: 65px;
+}
+.shop-item {
+
+  height: 360px;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
+
+}
+
+.shop-item01 {
+background-image: url( img/1.jpeg);
+
+
+}
+
+.shop-item02 {
+  background-image: url( img/2.jpg);
+ 
+}
+
+.shop-item03 {
+  background-image: url( img/3.jpg);
+}
+
+.text-info {
+
+  position: absolute;
+  bottom: 0;
+  left: 10px;
+  right: 0;
+  width: 100%;
+  font-size: 25px;
+  background: rgb(12, 86, 41);
+  border: 1px solid yellow;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+ 
+  
+
+}
+.text-info .col-4{
+  text-align: right;
+}
+.text-info h3 {
+
+  font-size: 32px;
+  color: aliceblue;
+  margin: 0;
+}
+
+.row-price  {
+  color: aliceblue;
+  border: 1px solid yellow;
+  border-radius: 5px;
+  padding: 5px 16px ;
+  font-size: 25px;
+  margin-bottom: 0;
+  
+
+}
+
